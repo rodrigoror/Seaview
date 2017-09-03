@@ -52,7 +52,6 @@ respectivamente
 
 ## Sobre o Desenvolvimento:
 
-
 Foi utilizado:
 
 ```
@@ -63,10 +62,10 @@ Foi utilizado:
 
 ## Sobre os Testes
 
-Foram planejados testes simples usando JUNIT e testando todas os métodos públicos 
+Foram planejados testes simples usando JUNIT e testando todos os métodos públicos 
 
 ## Sobre a Execução
-Prefira rodar os testes via JUNIT a rodar pelo executavel. Caso descida rodar o executavel, segue o comando.
+Prefira rodar os testes via JUNIT a rodar pelo executável. Caso descida rodar o jar, segue o comando exemplo.
 ```
 java -jar SeaView.jar LMRDDMMUU
 ```
